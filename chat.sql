@@ -39,8 +39,8 @@ CREATE TABLE `messages` (
 --
 
 INSERT INTO `messages` (`msgid`, `person`, `msg`) VALUES
-(1, 'anouar', 'Hello'),
-(2, 'tattar', 'Hi');
+(1, 'oumaacha', 'Hello'),
+(2, 'anonymuser', 'Hi');
 
 -- --------------------------------------------------------
 
