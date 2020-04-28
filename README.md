@@ -1,0 +1,1 @@
+# WebChatApplication with no AJAX
